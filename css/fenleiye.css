@@ -97,7 +97,7 @@ a:hover{
 .zhengti{
 	background-color: #f9f9f9;
 	width:100%;
-	height:1710px;
+	height:1216px;
 	padding-top: 16px;
 	position: relative;
 }
@@ -115,16 +115,19 @@ a:hover{
 .chanpin .e{
 	color:#999999;
 	font:14px '微软雅黑';
-
+	float:left;
+	width:116px;
+	
 }
-.blue{
+.chanpin .blue{
 	color:#2756a4;
 	font:14px '微软雅黑';
+    width:300px;
+    float：left；
 }
 .chanpin .zhongwen{
 	color:#3e3e3e;
 	font:24px '微软雅黑';
-	font-weight:bold;
 	margin-top:60px;
 }
 .chanpin .yingwen{
@@ -152,33 +155,40 @@ a:hover{
 }
 .g{
 	width:1200px;
-	height:1114px;
+	height:620px;
 	margin: 0 auto;
 }
 .three{
-	width:282px;
-	height:512px;
+	width:284px;
+	height:240px;
 	background: #ffffff;
 	margin:0px 16px 40px 0px;
 	float:left;
 }
+
 .three img{
 	margin:14px 8px 20px 8px;
 }
 .three p{
-	color:#2756a4;
+	color:#3e3e3e;
 	font:16px '微软雅黑';
-	text-align: center;
+	margin-left: 8px;
 	margin-bottom:14px; 
+	float:left;
 }
-.three li{
-	width:268px;
-	height:30px;
-	padding-top: 10px;
+
+.three .liaojie{
+	margin-right: 8px;
+	float:right;
+	width:58px;
+	
+
+}
+.three a{
 	color:#2756a4;
-	font:14px '微软雅黑';
-	border-top:1px dashed #cccccc; 
+	font:12px '微软雅黑';
 }
+
 .last{
 	width:100%;
 	height:368px;
@@ -223,7 +233,7 @@ a:hover{
 }
 .left{
 	width:120px;
-	height: 220px;
+	height:220px;
 	margin-right:68px;
 	padding-top: 64px;
 	float:left;
