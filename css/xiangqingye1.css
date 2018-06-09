@@ -1,0 +1,133 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+ul,li,ol{
+	list-style: none;
+}
+
+.daohang{
+	width:1200px;
+	height:104px;
+	margin: 0 auto;
+}
+.daohang img{
+	float:left;
+}
+.daohang p{
+	color:#0b4199;
+	font-family: '微软雅黑'；
+	font-size:22px;
+	display: inline-block;
+	margin-top:50px;
+	margin-left: 186px;
+	margin-right: 28px;
+
+
+}
+.daohang ul{
+	margin-top: 50px;
+	margin-right: 0px;
+}
+.b{
+
+	float:left;
+}
+.b li{
+
+	display: inline-block;
+	color:#7d7d7d;
+	font-size: 16px;
+
+}
+
+
+ul .red{
+	color:red;
+	margin-left:10px;
+
+}
+ .c{
+	border-left: 1px solid #7d7d7d;
+	width: 56px;
+	text-align: center;
+}
+.caidan{
+	width:1200px;
+	height:50px;
+	margin: 0 auto;
+	
+}
+.caidan ul{
+	height:50px;
+	width:944px;
+}
+.caidan img{
+	margin-top: 6px;
+}
+.d{
+	float:left;
+}
+
+
+.d li{
+	display: inline-block;
+	height:50px;
+	width:80px;
+	text-align: center;
+	line-height: 45px;
+	margin-right:28px; 
+}
+.d li:hover{
+	background-color: #2756a4;
+	
+}
+a{
+
+    
+	color:#434343;
+	text-decoration:none;
+	font:16px '微软雅黑';
+	
+}
+a:hover{
+	color:white;
+}
+.zhengti{
+	background-color: #f9f9f9;
+	width:100%;
+	height:1216px;
+	padding-top: 16px;
+	position: relative;
+}
+.zhengti .piaofu{
+	position: absolute;
+	left:1264px;
+	top:164px;
+}
+.chanpin{
+	width: 1200px;
+	height:166px;
+	margin: 0 auto;
+	border-bottom:1px dashed #cccccc;
+}
+.chanpin .e{
+	color:#999999;
+	font:14px '微软雅黑';
+	float:left;
+	width:340px;
+	
+}
+.chanpin .blue{
+	color:#2756a4;
+	font:14px '微软雅黑';
+    width:140px;
+    float：left；
+}
+.chanpin .zhongwen{
+	color:#3e3e3e;
+	font:24px '微软雅黑';
+	font-style: bold;
+	margin-top:60px;
+}
