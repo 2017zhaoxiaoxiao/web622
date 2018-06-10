@@ -209,10 +209,10 @@ a:hover{
 	border-radius: 40px;
 	margin-left: 234px;
 	margin-top: 2px;
-	padding-bottom: 16px;
+	
 
 }
-/*.lianjie a{
+.lianjie a{
 	display: block;
 	color:#ffffff;
 	font:16px;
@@ -220,4 +220,4 @@ a:hover{
 	margin-left: 80px;
 	width:68px;
 	height:20px;
-}*/
+}
