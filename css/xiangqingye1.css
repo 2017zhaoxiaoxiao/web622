@@ -97,7 +97,7 @@ a:hover{
 .zhengti{
 	background-color: #f9f9f9;
 	width:100%;
-	height:1216px;
+	height:2792px;
 	padding-top: 16px;
 	position: relative;
 }
@@ -108,22 +108,21 @@ a:hover{
 }
 .chanpin{
 	width: 1200px;
-	height:166px;
+	height:164px;
 	margin: 0 auto;
 	border-bottom:1px dashed #cccccc;
 }
 .chanpin .e{
 	color:#999999;
 	font:14px '微软雅黑';
-	float:left;
-	width:340px;
 	
 }
 .chanpin .blue{
 	color:#2756a4;
 	font:14px '微软雅黑';
-    width:140px;
+    width:1200px;
     float：left；
+    height:30px;
 }
 .chanpin .zhongwen{
 	color:#3e3e3e;
@@ -131,3 +130,94 @@ a:hover{
 	font-style: bold;
 	margin-top:60px;
 }
+.chanpin img{
+	float:right;
+	margin-top: 16px;
+	margin-left: 3px;
+}
+.f{
+	background: url(../images/top.png) no-repeat;
+	width:1200px;
+	height:40px;
+	margin :0 auto; 
+	margin-top: 58px;
+}
+.f p{
+	float :left;
+	margin-left: 58px;
+	margin-top: 8px;
+}
+.f a{
+	color:#ffffff;
+	font :14px '微软雅黑';
+}
+.g{
+	width:1200px;
+	margin: 0 auto;
+	background: #ffffff;
+	height:2220px;
+
+}
+.g .one{
+	width:730px;
+	height:400px;
+	float:left;
+
+}
+.one .xiaoyu{
+	margin-top: 200px;
+	margin-left: 28px;
+	float:left;
+}
+.one .center{
+	margin-top:106px;
+	margin-left:68px;
+	margin-right: 68px; 
+}
+.one .dayu{
+	margin-bottom:64px;
+	margin-right: 28px;
+}
+.two{
+	width:470px;
+	height:400px;
+	float:left;
+}
+.two .title{
+	font:24px '微软雅黑';
+	text-align: center;
+	margin-top: 54px;
+	margin-bottom: 46px;
+	color:#3e3e3e;
+}
+.two .three{
+	font:14px '微软雅黑';
+	color:#3e3e3e;
+	line-height:28px;
+}
+.four{
+	margin-left: 30px;
+	float:left;
+}
+.five{
+	float:left;
+}
+.lianjie{
+	background: #2756a4;
+	width:230px;
+	height:52px;
+	border-radius: 40px;
+	margin-left: 234px;
+	margin-top: 2px;
+	padding-bottom: 16px;
+
+}
+/*.lianjie a{
+	display: block;
+	color:#ffffff;
+	font:16px;
+	font-weight: bold;
+	margin-left: 80px;
+	width:68px;
+	height:20px;
+}*/
