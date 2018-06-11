@@ -112,9 +112,8 @@ a{
 	margin-top: 19px;
 }
 .nav1{
-	width: 1240px;
+	width: 322px;
 	height: 56px;
-	float: left;
 }
 .nav1 li{
 	line-height: 56px;
@@ -137,7 +136,7 @@ a{
 /*center开始*/
 .center{
 	width: 100%;
-	height: 1700px;
+	height: 1570px;
 	background-color: #f9f9f9;
 }
 .neirong{
@@ -149,7 +148,7 @@ a{
 	font: '微软雅黑' 24px;
 	font-weight: normal;
 	color: #3e3e3e;
-	padding-top: 66px;
+	padding-top: 45px;
 	margin-left: 18px;
 }
 .repair{
@@ -159,71 +158,68 @@ a{
 	width: 1200px;
 	border-bottom: 1px dashed #dcdcdc;
 }
+.repair p{
+	font-family: '微软雅黑';
+	font-size: 14px;
+	font-weight: normal;
+	color: #666666;
+	margin-bottom: 18px;
+}
+.neirong img{
+	margin-left:21px; 
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
 .one{
 	position: absolute;
 	top: 290px;
 	left: 1435px;
 }
+.neirong h2{
+	font:'微软雅黑' 20px;
+	font-weight: normal;
+	color: #2756a4;
+	margin-left: 40px;
+	margin-bottom: 15px;
+}
+.fir{
+	font: '微软雅黑' 16px;
+	font-weight: normal;
+	color: #666666;
+	line-height: 27px;
+	margin-left: 40px;
+	margin-bottom: 15px;
+}
+.white h2{
+	font: '微软雅黑' 20px;
+	font-weight: normal;
+	color: #333333;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	padding-top: 22px;
+}
+.nav2{
+	font:'微软雅黑' 16px;
+	font-weight: normal;
+	color: #333333;
+	line-height: 30px;
+	margin-left: 30px;
+}
 .white{
 	width: 1200px;
-	height: 1409px;
-	margin: 0 auto;
+	height: 999px;
 	background-color: #ffffff;
-	margin-top: 31px;
+	margin-left: 20px;
 }
-.navone{
-	width: 529px;
-	height: 1400px;
-	float: left;
+.nav3 li{
+	text-indent: 3em;
 }
-.o{
-	font-family:'微软雅黑';
-	font-size:20px;
-	font-weight: bold;
-	color: #2e2e2e;
-	margin-left: 163px;
-	margin-top: 39px;
-	margin-bottom: 19px;
+.kong{
+	text-indent: 2em;
 }
-.navone ul{
-	width: 482px;
-	height: 52px;
-	margin-left: 47px;
+.white p{
+	text-indent: 2em;
 }
-.navone li{
-	padding-left: 118px;
-	border-top: 1px #e5e5e5 solid;
-}
-.zi{
-	font-family: '微软雅黑';
-	font-size:16px;
-	font-weight: normal;
-	color: #2e2e2e;
-	line-height: 52px;
-}
-.bu{
-	font-family: '微软雅黑';
-	font-size:16px;
-	font-weight: normal;
-	color: #2e2e2e;
-	line-height: 25px;
-}
-.navtwo{
-	width: 671px;
-	height: 1400px;
-	float: left;
-}
-.navtwo ul{
-	width: 621px;
-	height: 52px;
-}
-.navtwo li{
-	padding-left: 160px;
-	border-top: 1px #e5e5e5 solid;
-}
-
-
-/*蓝框*/
 .next{
 	width: 100%;
 	height: 60px;
