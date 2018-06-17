@@ -97,7 +97,7 @@ ul .red{
 .zhengti{
 	background-color: #f9f9f9;
 	width:100%;
-	height:2900px;
+	height:2200px;
 	padding-top: 16px;
 	
 }
@@ -192,7 +192,7 @@ ul .red{
 	margin-left: 3px;
 }
 .f{
-	background: url(../images/top.png) no-repeat;
+	background: url(../images/zx11.png) no-repeat;
 	width:1200px;
 	height:40px;
 	margin :0 auto; 
@@ -211,7 +211,7 @@ ul .red{
 	width:1200px;
 	margin: 0 auto;
 	background: #ffffff;
-	height:2640px;
+	height:2200px;
 
 }
 .aa{
@@ -230,22 +230,21 @@ ul .red{
 	float:left;
 }
 .one .center{
-	margin-top:106px;
-	margin-left:68px;
-	margin-right: 68px; 
+	margin-top:66px;
+	margin-left:180px;
+	margin-right: 180px; 
 }
 .one .dayu{
-	margin-bottom:64px;
+	margin-bottom:136px;
 	margin-right: 28px;
 }
 .two{
-	width:470px;
+	width:440px;
 	height:400px;
 	float:left;
 }
 .two .title{
 	font:24px '微软雅黑';
-	text-align: center;
 	margin-top: 54px;
 	margin-bottom: 46px;
 	color:#3e3e3e;
@@ -267,8 +266,8 @@ ul .red{
 	width:230px;
 	height:20px;
 	background: #2756a4;
-	margin-bottom: 1px;
 	margin-left: 234px;
+	margin-top: 46px;
 	padding-top: 14px;
 	padding-bottom: 14px;
 	border:1px solid white;
@@ -353,56 +352,24 @@ ul .red{
 	width:1142px;
 	margin: 0 auto;
 	height:160px;
-	border-bottom: 2px solid #f2f2f2;
+	border-bottom: 1px solid #434343;
 }
 .gg{
  	margin-top: 30px;
 	font:16px '微软雅黑';
 	color:#434343;
 }
-.nine{
-	width:1142px;
-	margin: 0 auto;
-	height:506px;
-}
-.nine .hh{
-	float:right;
-}
-.nine .ii{
-	width:126px;
-	height:26px;
-	margin-top:366px;
-	margin-left:516px;
-	text-align: center;
-	color:#ffffff;
-	background: url(../images/zx1.png) no-repeat center;
-}
+
 .ten{
 	width:1200px;
-	height:338px;
-	border-top: 4px solid #949494;
+	height:24px;
+	
 }
-.ten .kk{
-	margin-top: 28px;
-	margin-left: 28px;
-	margin-bottom:40px;
-	color:#2756a4;
-	font :22px '微软雅黑';
 
-}
-.ten li{
-	width:1086px;
-	color:#767373;
-	font:16px '微软雅黑';
-	list-style-type: disc;
-	list-style-position: inside;
-	margin-left: 28px;
-	line-height: 24px;
-}
 .ten .jj{
 	width:126px;
 	height:26px;
-	margin-top:96px;
+	margin-top: 60px;
 	margin-left:546px;
 	text-align: center;
 	font:16px '微软雅黑';
