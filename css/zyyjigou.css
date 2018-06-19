@@ -67,7 +67,7 @@ a:link{text-decoration: none;color: black;}
 a:visted{color: #999999;}
 a:hover{color: white;}
 .chanpin{
-	height: 1650px;
+	height: 1415px;
 	width: 100%;
 	background: #f9f9f9;
 }
@@ -102,40 +102,23 @@ a:hover{color: white;background-color: blue;}
 .b{
 	color: #a1adcd;
 }
-.zho{
-	width:1200px;
-	height: 1400px;
-	background-color: white;
-	margin: 0 auto;
-}
-.zj{
+.baii{
+	height: 1115px;
 	width: 1200px;
-	height: 1400px;
 	margin: 0 auto;
-}
-.jj{
-	padding:  20px;
-	margin-top: 20px;
-	font-size: 14px;
-	font-family: '微软雅黑'；
-}
-.duo{
-	line-height: 2em;
-}
-.jj .shao{
-	line-height: 2.5em;
-}
-.duana{
-	margin-top: 20px;
-}
-.duanb{
+	background-color: white;
 	margin-top: 30px;
 }
-.duanc{
-	margin-top: 40px;
+.po{
+	margin-top: 20px;
+	margin-left: 13px;
+
 }
-.duand{
-	margin-top: 50px;
+.hui p{
+	display: inline-block;
+	color: blue;
+	margin-left: 100px;
+	margin-top: 15px;
 }
 .piaofu{
 	width: 84px;
@@ -170,21 +153,6 @@ a:hover{color: white;background-color: blue;}
 	color: white;
 	font-size: 10px;
 	margin-left: 8px;
-} 
-.zho .zhan{
-	height: 50px;
-	width: 150px;
-	margin: 0 auto;
-	margin-top: 170px;
-	background-color: white;
-}
-.pi{
-	color: red;
-	display: inline-block;
-}
-.hui p{
-	font-size: 16px;
-	color: black;
 }
 .lianjie{
 	height: 60px;
@@ -201,6 +169,23 @@ a:hover{color: white;background-color: blue;}
 	float: left;
 	margin-top: 15px;
 	margin-right: 10px;
+}
+.baiii{
+	width: 1170px;
+	height: 224px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.baiii p{
+	font-size: 16px;
+}
+.baiii{
+	font-size: 20px;
+}
+.tt{
+	width: 767px;
+	height: 722px;
+	margin: 0 auto;
 }
 .zuo{
 	float: left;
