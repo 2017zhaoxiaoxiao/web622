@@ -1,0 +1,169 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+ul,li,ol{
+	list-style: none;
+}
+
+.daohang{
+	width:1200px;
+	height:104px;
+	margin: 0 auto;
+}
+.daohang img{
+	float:left;
+}
+.daohang p{
+	color:#0b4199;
+	font-family: '微软雅黑'；
+	font-size:22px;
+	display: inline-block;
+	margin-top:50px;
+	margin-left: 186px;
+	margin-right: 28px;
+
+
+}
+.daohang ul{
+	margin-top: 50px;
+	margin-right: 0px;
+}
+.b{
+
+	float:left;
+}
+.b li{
+
+	display: inline-block;
+	color:#7d7d7d;
+	font-size: 16px;
+
+}
+
+
+ul .red{
+	color:red;
+	margin-left:10px;
+
+}
+ .c{
+	border-left: 1px solid #7d7d7d;
+	width: 56px;
+	text-align: center;
+}
+.caidan{
+	width:1200px;
+	height:50px;
+	margin: 0 auto;
+	
+}
+.caidan ul{
+	height:50px;
+	width:944px;
+}
+.caidan img{
+	margin-top: 6px;
+}
+.d{
+	float:left;
+}
+
+
+.d li{
+	display: inline-block;
+	height:50px;
+	width:80px;
+	text-align: center;
+	line-height: 45px;
+	margin-right:28px; 
+}
+.d li:hover{
+	background-color: #2756a4;
+	
+}
+.d a{
+
+    
+	color:#434343;
+	text-decoration:none;
+	font:16px '微软雅黑';
+	
+}
+.d a:hover{
+	color:white;
+}
+.zhengti{
+	width:100%;
+	height:2198px;
+	background: #e9eaee;
+}
+.zhengti .piaofu{
+	position: fixed;
+	right:1px;
+	top:164px;
+}
+.piaofu .ab{
+	background: #8d8d8d;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:80px;
+}
+.piaofu .ac{
+	background: #b0b0b0;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:80px;
+}
+.ad{
+	background: #b0b0b0;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:64px;
+}
+.ad a{
+	width:84px;
+	height:18px;
+	display: inline-block;
+	font: 10px '微软雅黑';
+	color:#8d8d8d;
+	text-decoration:none;
+	background: #a4a4a4;
+}
+
+.ab img{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.ac img{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.ad img{
+	margin-top: 20px;
+	margin-left: 26px;
+	margin-bottom: 10px;
+}
+.ab a{
+	display: inline-block;
+	font: 14px '微软雅黑';
+	color:#ffffff;
+	margin-left: 14px;
+	text-decoration:none;
+}
+.ac a{
+	display: inline-block;
+	text-align: center;
+	font: 14px '微软雅黑';
+	color:#ffffff;
+	margin-left: 14px;
+	text-decoration:none;
+}
+.one{
+	width:1200px;
+	height:62px;
+	margin:0 auto;
+	margin-top:12px;
+	background: #e2e2e2;
+}
