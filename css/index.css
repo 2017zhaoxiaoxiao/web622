@@ -9,7 +9,7 @@ ul,li,ol{
 
 .daohang{
 	width:1200px;
-	height:104px;
+	height:60px;
 	margin: 0 auto;
 }
 .daohang img{
@@ -20,14 +20,14 @@ ul,li,ol{
 	font-family: '微软雅黑'；
 	font-size:22px;
 	display: inline-block;
-	margin-top:50px;
+	margin-top:20px;
 	margin-left: 186px;
 	margin-right: 28px;
 
 
 }
 .daohang ul{
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-right: 0px;
 }
 .b{
