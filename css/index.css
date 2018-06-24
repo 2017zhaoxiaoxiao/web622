@@ -174,7 +174,6 @@ ul .red{
 	margin-top:12px;
 	background: #e2e2e2;
 }
-<<<<<<< HEAD
 .tuwen{
 	width:1200px;
 	height: 268px;
@@ -237,6 +236,9 @@ ul .red{
 	display: inline-block;
 	float: left;
 }
+.button{
+	
+}
 .gr{
 	color: #8d8eb9;
 	font-size: 14px;
@@ -245,7 +247,7 @@ ul .red{
 	float: right;
 	width: 679px;
 	height:  268px;
-=======
+}
 .po{
 	width:1200px;
 	height:314px;
@@ -264,5 +266,4 @@ ul .red{
 }
 .po .zxone{
 	float:left;
->>>>>>> 6985246b33cb9f8a3f4f45e31942937b1add6327
 }
