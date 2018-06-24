@@ -174,6 +174,7 @@ ul .red{
 	margin-top:12px;
 	background: #e2e2e2;
 }
+<<<<<<< HEAD
 .tuwen{
 	width:1200px;
 	height: 268px;
@@ -244,4 +245,24 @@ ul .red{
 	float: right;
 	width: 679px;
 	height:  268px;
+=======
+.po{
+	width:1200px;
+	height:314px;
+	margin :0 auto;
+	background-color: #ffffff;
+}
+.po .zuo{
+	float:left;
+	margin-top: 150px;
+	margin-left:28px;
+}
+.po .you {
+	float:left;
+	margin-top: 150px;
+	
+}
+.po .zxone{
+	float:left;
+>>>>>>> 6985246b33cb9f8a3f4f45e31942937b1add6327
 }
