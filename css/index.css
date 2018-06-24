@@ -163,10 +163,159 @@ ul .red{
 	margin-left: 14px;
 	text-decoration:none;
 }
+.jujiao{
+	width: 100%;
+	height: 440px;
+}
 .one{
 	width:1200px;
-	height:62px;
+	height:57px;
 	margin:0 auto;
 	margin-top:12px;
 	background: #e2e2e2;
+}
+
+.tuwen{
+	width:1200px;
+	height: 268px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.wen{
+	float: left;
+	width: 487px;
+	height: 268px;
+	margin-left: 34px;
+}
+.gr{
+	list-style-image: url(images/ling.png);
+	list-style-position: inside;
+}
+.shsh{
+	width: 300px;
+	height: 120px;
+	float: right;
+	margin-right:10px;
+}
+.wenwen{
+	width: 487px;
+	height: 65px;
+}
+.abc{
+	width: 342px;
+	height:65px;
+	float: left;
+}
+.av{
+	display: inline-block;
+	width: 145px;
+	height: 65px;
+	float: left;
+}
+.au{
+	display: inline-block;
+	width: 320px;
+	height: 20px;
+	float: left;
+	margin-top: 10px;
+}
+.iop{
+	width: 145px;
+	display: inline-block;
+	float: left;
+	height: 150px;
+}
+.pl{
+	width: 260px;
+	height:150px;
+	float: left;
+	line-height: 30px;
+}
+.aixia{
+	width: 405px;
+	height: 170px;
+	display: inline-block;
+	float: left;
+}
+.gr{
+	color: #8d8eb9;
+	font-size: 14px;
+}
+.tu{
+	float: right;
+	width: 679px;
+	height:  268px;
+}
+.po{
+	width:1200px;
+	height:314px;
+	margin :0 auto;
+	background-color: #ffffff;
+}
+.po .zuo{
+	float:left;
+	margin-top: 150px;
+	margin-left:28px;
+}
+.po .you {
+	float:left;
+	margin-top: 150px;
+	
+}
+.po .zxone{
+	float:left;
+}
+.po{
+	width:1200px;
+	height:314px;
+	margin :0 auto;
+	background-color: #ffffff;
+}
+.po .zuo{
+	float:left;
+	margin-top: 150px;
+	margin-left:28px;
+	margin-right: 16px;
+}
+.po .you {
+	float:left;
+	margin-top: 150px;
+	margin-right:28px;
+}
+.po .zxone{
+	float:left;
+	width:300px;
+	height:314px;
+	margin-right: 50px;
+}
+.po .zxxone{
+	float:left;
+	width:300px;
+	height:314px;
+	margin-left:20px;
+}
+.zxxthree{
+	margin-top: 40px;
+	margin-left:5px; 
+}
+
+.zxone p{
+	margin-left: 76px;
+	color:#333333;
+	margin-bottom: 16px;
+	margin-top:16px;
+	font-weight: bold;
+}
+.zxxone p{
+	margin-left: 76px;
+	color:#333333;
+	font-size: 16px;
+	margin-bottom: 16px;
+	margin-top:16px;
+	font-weight: bold;
+}
+.po li{
+	color:#c5c4c4;
+	font-size: 14px;
+
 }
