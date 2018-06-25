@@ -1,0 +1,294 @@
+*{
+	margin:0;
+	padding:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+.a{
+	width :100%;
+	height :104px;
+}
+.daohang{
+	width:1200px;
+	height:104px;
+	margin: 0 auto;
+}
+.daohang .p{
+	float:left;
+}
+.daohang p{
+	color:#0b4199;
+	font-family: '微软雅黑'；
+	font-size:22px;
+	display: inline-block;
+	margin-top:50px;
+	margin-left: 186px;
+	margin-right: 28px;
+}
+.daohang ul{
+	margin-top: 50px;
+	margin-right: 0px;
+}
+.b{
+	float:left;
+}
+.b li{
+	display: inline-block;
+	color:#7d7d7d;
+	font-size: 16px;
+}
+ul .red{
+	color:red;
+	margin-left:0px;
+}
+.c{
+	border-left: 1px solid #7d7d7d;
+	width: 56px;
+	text-align: center;
+}
+.caidan{
+	width:1200px;
+	height:50px;
+	margin: 0 auto;
+}
+.caidan ul{
+	height:50px;
+	width:944px;
+}
+.caidan img{
+	margin-top: 6px;
+}
+.d{
+	float:left;
+}
+.d li{
+	display: inline-block;
+	height:50px;
+	width:80px;
+	text-align: center;
+	line-height: 45px;
+	margin-right:28px; 
+}
+.d li:hover{
+	background-color: #2756a4;
+}
+a{
+	color:#434343;
+	text-decoration:none;
+	font:16px '微软雅黑';
+}
+.center{
+	height: 1216px;
+	width: 100%;
+	background-color: #f9f9f9;
+}
+.zi{
+	height: 1216px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.zi h1{
+	font: '微软雅黑' 24px;
+	font-weight: normal;
+	color: #3e3e3e;
+	padding-top: 66px;
+	margin-left: 18px;
+}
+.one{
+	color: #0b4199;
+}
+.repair{
+	margin-left: 21px;
+	margin-top: 8px;
+	height: 35px;
+	width: 1200px;
+	border-bottom: 1px dashed #dcdcdc;
+}
+.repair p{
+	font-family: '微软雅黑';
+	font-size: 14px;
+	font-weight: normal;
+	color: #666666;
+	margin-bottom: 18px;
+}
+.zi img{
+	margin-top: 20px;
+}
+.zi h2{
+	font:'微软雅黑' 20px;
+	font-weight: normal;
+	color: #2756a4;
+	margin-left: 40px;
+	margin-bottom: 15px;
+}
+.fir{
+	font: '微软雅黑' 16px;
+	font-weight: normal;
+	color: #666666;
+	line-height: 27px;
+	margin-left: 40px;
+	margin-bottom: 15px;
+}
+.e{
+	color:#999999;
+	font:14px '微软雅黑';
+	margin-left:60px;
+}
+.shiyan{
+	height:609px;
+	width:1200px;
+	margin-left: 60px;
+	margin-right: 60px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+.la{
+	float: left;
+	height:227px;
+	width:273px;
+}
+.la p{
+	font: '微软雅黑' 16px;
+	/*color: #3e3e3e;*/
+	text-align: center;
+	margin-top: 20px;
+}
+.z{
+	position: absolute;
+	float: right;
+	left:1315px;
+	top:200px;
+}
+.lan{
+	width: 100%;
+	height: 60px;
+	background-color:#0b4199;
+}
+.lan1{
+	width: 1200px;
+	margin: 0 auto;
+}
+.dianhua{
+	float: left;
+	margin-top: 15px;
+}
+.haoma{
+	float: left;
+	margin-top: 22px;
+	margin-left: 9px;
+	color: #ffffff;
+	font: 16px '微软雅黑';
+}
+.xunhuan{
+	margin-left: 158px;
+	float: left;
+	margin-top: 15px;
+}
+.zdyqjs{
+	float: left;
+	margin-top: 22px;
+	margin-left: 9px;
+	color: #ffffff;
+	font: 16px '微软雅黑';
+}
+.qitalj{
+	margin-left: 520px;
+	float: left;
+	margin-top: 22px;
+	color: #ffffff;
+	font: 16px '微软雅黑';
+}
+.logos{
+	float: right;
+	margin-top: 15px;
+}
+.hei{
+	width: 100%;
+	height: 307px;
+	background-color: #454545;
+}
+.hei2{
+	width: 1200px;
+	margin: 0 auto;
+}
+.hei1{
+	width: 187px;
+	height: 223px;
+	color: #ffffff;
+	float: left;
+}
+.hei5{
+	width: 150px;
+	height: 223px;
+	color: #ffffff;
+	float: left;
+}
+.hei7{
+	width: 270px;
+	height: 90px;
+	margin-left: 36px;
+	margin-top: 30px;
+}
+.gyzdyq{
+	margin-top: 60px;
+	font: 16px '微软雅黑';
+}
+.xwzx{
+	margin-top: 24px;
+}
+.gsjj{
+	margin-top: 11px;
+	font: 14px '微软雅黑';
+}
+.hei0{
+	width: 300px;
+	float: left;
+	float: left;
+}
+.shuline{
+	float: left;
+	margin-top: 41px;
+}
+.bailogo{
+	margin-top: 35px;
+	margin-left: 36px;
+}
+.zdkyqyb{
+	font: 14px '微软雅黑';
+	margin-top: 5px;
+	margin-left: 31px;
+	color: #ffffff;
+	width: 300px;
+}
+.qingdao{
+	font: 14px '微软雅黑';
+	color: #ffffff;
+	width: 290px;
+	line-height: 1.5em;
+}
+.address{
+	font: 14px '微软雅黑';
+	float: left;
+	margin-left: 32px;
+	color: #ffffff;
+	width: 290px;
+	margin-top: 28px;
+}
+.gkdwenzi{
+	float: left;
+	margin-top: 40px;
+	margin-left: 126px;
+	top: 40px;
+	font: 12px '微软雅黑';
+	color: #ffffff;
+	left: 126px;
+}
+.zhongguo{
+	float: left;
+	margin-top: 40px;
+	font: 12px '微软雅黑';
+	color: #ffffff;
+	margin-left: 142px;
+}
+

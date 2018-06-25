@@ -8,7 +8,7 @@ ul,li,ol{
 }
 .a{
 	width: 100%;
-	height: 152px;
+	height: 142px;
 }
 .daohang{
 	width: 1200px;
@@ -62,7 +62,7 @@ ul,li,ol{
 .li{
 	color: white;
 }
-/*li:hover{background-color: blue;}*/
+.liebiao li:hover{background-color: blue;}
 a:link{text-decoration: none;color: black;}
 a:visted{color: #999999;}
 a:hover{color: white;}
@@ -78,10 +78,13 @@ a:hover{color: white;}
 	border-bottom: 1px dashed #ececec;
 }
 .jiliang .c{
-	color: #e3e3e3;
+	color: red;
 	font-size: 14px;
 	display: inline-block;
 	margin-top: 10px;
+}
+.cc{
+	color:gray;
 }
 .jiliang .b{
 	color: blue;
@@ -103,12 +106,39 @@ a:hover{color: white;background-color: blue;}
 	margin: 0 auto;
 	margin-top: 20px;
 }
-.fu{
-	position: absolute;
+.piaofu{
+	width: 84px;
+	height:310px;
+	background-color: #8d8d8d;
+	position: fixed;
 	float: right;
-	left: 1400px;
+	right: 30px;
 	top: 290px;
-
+}
+.xiao{
+	width: 84px;
+	height: 82px;
+}
+.xiao a:link{text-decoration: none;}
+.baibai{
+	color: white;
+	margin-left: 10px;
+}
+.heihei{
+	margin-top: 5px;
+	margin-left: 20px;
+}
+.piaotu{
+	width: 45px;
+	height: 40px;
+	display: block;
+	margin: 0 auto;
+}
+.btt{
+	width: 84px;
+	color: white;
+	font-size: 10px;
+	margin-left: 8px;
 }
 .zi{
 	width: 1200px;
