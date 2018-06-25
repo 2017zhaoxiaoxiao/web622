@@ -328,3 +328,40 @@ ul .red{
 	color:#c5c4c4;
 	font-size: 14px;
 }
+.kang{
+	width:1200px;
+	height:540px;
+	margin :0 auto;
+	background-color: #ffffff;
+}
+.kangk{
+	margin-left: 14px;
+}
+.xiaozi{
+	width:580px;
+	height:148px;
+}
+.guojia{
+	font: 16px '微软雅黑';
+	font-weight: bold;
+	color: #333333;
+	margin-left: 14px;
+	margin-top: 20px;
+}
+.riqian{
+	font-weight: normal;
+	color:#c5c4c4;
+	font-size: 16px;
+	line-height: 20px;
+	margin-left: 14px;
+	margin-top: 20px;
+}
+.buttonk{
+	width:76px;
+	height:24px;
+	background-color: #34caef;
+	float: right;
+	font:14px '微软雅黑';
+	color:#ffffff;
+	border-radius: 5px;
+}
