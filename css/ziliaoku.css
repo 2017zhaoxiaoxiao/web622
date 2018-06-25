@@ -160,7 +160,7 @@ a{
 	width: 1200px;
 	border-bottom: 1px dashed #dcdcdc;
 }
-.repair p{
+.shiba{
 	font-family: '微软雅黑';
 	font-size: 14px;
 	font-weight: normal;
@@ -222,6 +222,7 @@ a{
 	padding-left: 40px;
 }
 .nav3 li{
+	padding-top: 10px;
 	line-height: 34px;
 }
 .wendang{
@@ -239,7 +240,119 @@ a{
 	border:2px solid #d0d2d1;
 	margin-top: 42px;
 }
+.fen{
+	margin-left: 45px;
+	width: 788px;
+	height: 145px;
+	float: left;
+	border-bottom: 3px solid #d0d2d1;
+}
+.wanlwanl{
+	margin-left: 45px;
+	width: 788px;
+	height: 145px;
+	float: left;
+}
+.wanlwanl h5{
+	font:16px '微软雅黑';
+	font-weight: bold;
+	color: #333333;
+	line-height: 36px;
+	margin-top: 6px;
+}
+.fen h5{
+	font:16px '微软雅黑';
+	font-weight: bold;
+	color: #333333;
+	line-height: 36px;
+	margin-top: 6px;
+}
+.qiguai{
+	padding-top: 10px;
+	font:14px '微软雅黑';
+	font-weight: normal;
+	color: #666666;
+}
+.shouce{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #0b4199;
+	margin-top: 11px;
+	float: left;
+}
+.nav10{
+	width: 788px;
+	height: 455px;
+	float: left;
+}
+.shuxian{
+	margin-left: 18px;
+	float: left;
+	margin-top: 14px;
+}
+.riqi{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #0b4199;
+	margin-top: 11px;
+	float: left;
+	margin-left: 20px;
+}
+.tuxie{
+	width: 307px;
+	height: 40px;
+	float: left;
+}
+.daxiao{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #0b4199;
+	margin-top: 11px;
+	float: left;
+}
+.zaixian{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #0b4199;
+	margin-top: 11px;
+	float: left;
+}
+.yanjing{
+	margin-left: 170px;
+	float: left;
+	margin-top: 15px;
 
+}
+.daxiao{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #0b4199;
+	margin-top: 11px;
+	float: left;
+}
+.xiazai{
+	margin-left: 81px;
+	float: left;
+	margin-top: 14px;
+}
+.xiazaiwz{
+	line-height: 26px;
+	font: 16px '微软雅黑';
+	font-weight: normal;
+	color: #ed1c24;
+	margin-top: 11px;
+	float: left;
+}
+.one{
+	position: absolute;
+	top: 290px;
+	left: 1435px;
+}
 /*蓝框*/
 .next{
 	width: 100%;
