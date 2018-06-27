@@ -3,9 +3,9 @@
 ## 小组成员:赵肖肖 聂丹 李晓萌 康奥钒 吴东枚 郑玉莹
 <br>
 [首页]
-(https://2017zhaoxiaoxiao.github.io/web-622/)
+(https://2017zhaoxiaoxiao.github.io/web-622/)<br>
 ## 任务分配详情：
-- 赵肖肖
+- 赵肖肖<br>
 1. [产品中心-综合页]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
 2. [产品中心-分类页]
