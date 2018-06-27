@@ -5,10 +5,11 @@
 <p>首页:<p>
 (https://2017zhaoxiaoxiao.github.io/web-622/)<br>
 <p>任务分配详情：</p>
-- 赵肖肖<br>
-1. [产品中心-综合页]
+<p>赵肖肖</p>
+<ul>
+    <li>1.产品中心-综合页</li>
 (https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
-2. [产品中心-分类页]
+    </li>2.产品中心-分类页</li>
 (https://2017zhaoxiaoxiao.github.io/web-622/html/fenleiye.html)
 3. [产品中心-详情页 -(1)]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/xiangqingye1.html)
