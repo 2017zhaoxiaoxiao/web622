@@ -7,57 +7,69 @@
 <p>任务分配详情：</p>
 <p>赵肖肖</p>
 <ul>
-    <li>1.产品中心-综合页</li>
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
-    </li>2.产品中心-分类页</li>
-(https://2017zhaoxiaoxiao.github.io/web-622/html/fenleiye.html)
-3. [产品中心-详情页 -(1)]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/xiangqingye1.html)
-4. [产品中心-详情页 -(2)]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/xiangqingye2.html)
-- 聂丹
-1. [产品中心-产品对比]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5.html)
-2. [产品中心-产品对比详情页]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5-1.html)
-3. [产品中心-详情页 -订购信息]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
-4. [产品中心-详情页 -技术指标]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/7zhongdian.html)
-- 李晓萌
-1. [产品中心-详情页 -资料库]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/ziliaoku.html)
-2. [售后服务-仪器维修]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/yiqiweixiu.html)
-3. [资质能力-电子类服务能力]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/dianzifuwu.html)
-4. [资质能力-光电子类服务能力]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/guangdianzifuwunengli.html)
-- 康奥帆
-1. [检测-环境检测]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/6.9.html)
-2. [检测-环境检测-button-详情页]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/6.10.html)
-3. [检测-元器件监测]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/6.18.html)
-4. [培训与教育]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/6.22.html)
-- 吴东枚
-1. [计量和服务-详情页-产品概述]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm.html)
-2. [计量和服务-综合页]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm1.html)
-3. [计量校准-表格-内容]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm2.html)
-4. [计量校准-计量标准（表格）]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian.html)
-- 郑玉莹
-1. [计量校准-计量产品]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/da.html)
-2. [计量校准-资质能力]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigo.html)
-3. [计量校准-资质能力-机构介绍及资质能力]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zyymc.html)
-4. [检测-EMC]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyzizi.html)
+    	<li>产品中心-综合页</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
+    	<li>[产品中心-分类页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/fenleiye.html)
+	<li>[产品中心-详情页 -(1)]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/xiangqingye1.html)
+	<li>[产品中心-详情页 -(2)]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/xiangqingye2.html)
+</ul>
+<p>聂丹</p>
+<ul>
+	<li>[产品中心-产品对比]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5.html)
+	<li>[产品中心-产品对比详情页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5-1.html)
+	<li>[产品中心-详情页 -订购信息]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
+	<li>[产品中心-详情页 -技术指标]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/7zhongdian.html)
+</ul>
+<p>李晓萌</p>
+<ul>
+	<li>[产品中心-详情页 -资料库]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/ziliaoku.html)
+	<li>[售后服务-仪器维修]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/yiqiweixiu.html)
+	<li>[资质能力-电子类服务能力]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/dianzifuwu.html)
+	<li>[资质能力-光电子类服务能力]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/guangdianzifuwunengli.html)
+</ul>
 
+<p>康奥帆</p>
+<ul>
+	<li>[检测-环境检测]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.9.html)
+	<li>[检测-环境检测-button-详情页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.10.html)
+	<li>[检测-元器件监测]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.18.html)
+	<li>[培训与教育]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.22.html)
+</ul>
+
+<p>吴东枚</p>
+<ul>
+	<li>[计量和服务-详情页-产品概述]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm.html)
+	<li>[计量和服务-综合页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm1.html)
+	<li>[计量校准-表格-内容]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm2.html)
+	<li>[计量校准-计量标准（表格）]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian.html)
+</ul>
+<p>郑玉莹</p>
+<ul>
+	<li>[计量校准-计量产品]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/da.html)
+	<li>[计量校准-资质能力]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigo.html)
+	<li>[计量校准-资质能力-机构介绍及资质能力]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyymc.html)
+	<li>[检测-EMC]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyzizi.html)
+</ul>
