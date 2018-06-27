@@ -330,12 +330,13 @@ ul .red{
 }
 .kang{
 	width:1200px;
-	height:540px;
+	height:600px;
 	margin :0 auto;
 	background-color: #ffffff;
 }
 .kangk{
 	margin-left: 14px;
+	float: left;
 }
 .xiaozi{
 	width:580px;
@@ -361,6 +362,124 @@ ul .red{
 	height:24px;
 	background-color: #34caef;
 	float: right;
+	font:14px '微软雅黑';
+	color:#ffffff;
+	border-radius: 5px;
+}
+.kangtai{
+	width: 585px;
+	height: 540px;
+	float: left;
+}
+.lxm1{
+	width: 152px;
+	height: 540px;
+	float: left;
+	margin-top: 60px;
+}
+.lxm2{
+	width: 152px;
+	height: 194px;
+}
+.lxm3{
+	width: 152px;
+	height: 171px;
+}
+.lxm4{
+	width: 152px;
+	height:  175px;
+}
+.lxm01{
+	font: 40px '微软雅黑';
+	font-weight: normal;
+	color: #e9eaee;
+	padding-top: 35px;
+	margin-left: 60px;
+}
+.lxm5{
+	width: 463px;
+	height: 194px;
+	float: left;
+	margin-top: 60px;
+}
+.lxm6{
+	width: 463px;
+	height: 171px;
+	float: left;
+}
+.lxm7{
+	width: 463px;
+	height: 175px;
+	float: left;
+}
+.lxmbiaoti{
+	font: 16px '微软雅黑';
+	font-weight: bold;
+	color: #333333;
+	padding-top: 15px;
+	margin-bottom: 25px;
+}
+.lxmriqi{
+	width: 91px;
+	height: 27px;
+	position: absolute;
+	top: 1295px;
+	left: 1100px;
+}
+.lxmxiaozi{
+	font: 14px '微软雅黑';
+	font-weight: normal;
+	color: #d7d7de;
+}
+.lxmwenzi{
+	font: 14px '微软雅黑';
+	font-weight: normal;
+	color: #a9a9a9;
+	line-height: 25px;
+}
+.lxmlan{
+	width: 77px;
+	height: 24px;
+	position: absolute;
+	top: 1400px;
+	left: 1050px;
+	background-color: #34caef;
+	font:14px '微软雅黑';
+	color:#ffffff;
+	border-radius: 5px;
+}
+.lxmriqi1{
+	width: 91px;
+	height: 27px;
+	position: absolute;
+	top:1490px;
+	left: 1100px;
+}
+.lxmriqi2{
+	width: 91px;
+	height: 27px;
+	position: absolute;
+	top: 1660px;
+	left: 1100px;
+}
+.lxmlan1{
+	width: 77px;
+	height: 24px;
+	position: absolute;
+	top: 1590px;
+	left: 1050px;
+	background-color: #34caef;
+	font:14px '微软雅黑';
+	color:#ffffff;
+	border-radius: 5px;
+}
+.lxmlan2{
+	width: 77px;
+	height: 24px;
+	position: absolute;
+	top: 1780px;
+	left: 1050px;
+	background-color: #34caef;
 	font:14px '微软雅黑';
 	color:#ffffff;
 	border-radius: 5px;
