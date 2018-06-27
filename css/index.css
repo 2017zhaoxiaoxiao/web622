@@ -263,23 +263,10 @@ ul .red{
 	width: 679px;
 	height:  268px;
 }
-.po{
-	width:1200px;
-	height:314px;
-}
-.po .zuo{
-	float:left;
-	margin-top: 150px;
-	margin-left:28px;
-}
-.po .you {
-	float:left;
-	margin-top: 150px;
-	
-}
-.po .zxone{
-	float:left;
 
+.poo{
+	width:100%;
+	height:314px;
 }
 .po{
 	width:1200px;
@@ -489,4 +476,222 @@ ul .red{
 	font:14px '微软雅黑';
 	color:#ffffff;
 	border-radius: 5px;
+}
+.wo1{
+	width:1200px;
+	height:380px;
+	margin:0 auto;
+	margin-top: 5px;
+	background-color: #ffffff; 
+}
+.wo2 img{
+	width: 1198px;
+	height: 62px;
+	margin: 0 auto;
+	background-color: #f9f9f9;
+	float: left;
+}
+.wo3{
+	width: 570px;
+	height: 318px;
+	margin-left: 15px;
+	margin-right: 10px;
+	float: left;
+}
+.wo3 img{
+	width: 305px;
+	height: 222px;
+	margin-right: 30px;
+	float: left;
+}
+.wo4{
+	width: 230px;
+	height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	float: left;
+}
+.wo5{
+	width: 230px;
+	height: 110px;
+	font-size: 17px;
+	float:left; 
+}
+.buttonk img{
+	width: 13px;
+	height: 13px;
+	margin: 0px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.wo6{
+	width: 230px;
+	height: 75px;
+	font-size: 19px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+.wo7{
+	width: 230px;
+	height: 20px;
+	font-size: 19px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	float: left;
+}
+.wo8{
+	width: 230px;
+	height: 17px;
+	font-size: 16px;
+	float:left; 
+}
+.wo9{
+	width: 230px;
+	height: 20px;
+	font-size: 19px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	float: left;
+}
+.wo10{
+	width: 230px;
+	height: 17px;
+	font-size: 16px;
+	float:left; 
+}
+.buttonk img{
+	width: 13px;
+	height: 13px;
+	margin: 0px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.last{
+	width:100%;
+	height:368px;
+	background:#0b4199;
+
+}
+.top{
+	width:100%;
+	width:1200px;
+	height:60px;
+	padding: 14px 70px 14px 70px;
+
+}
+.top img{
+	float:left;
+	margin-right: 10px;
+}
+.top p{
+	float:left;
+	color:#ffffff;
+	font:18px '微软雅黑';
+
+}
+.four{
+	margin-left: 320px;
+
+}
+.five{
+	margin-left: 320px;
+}
+.bottom{
+	width:100%;
+	height:320px;
+	background: #454545;
+    
+}
+.q{
+	width:1200px;
+	height:320px;
+	margin: 0 auto;
+	background: #454545;
+}
+.left{
+	width:120px;
+	height: 220px;
+	margin-right:68px;
+	padding-top: 64px;
+	float:left;
+}
+.left p{
+	color:#ffffff;
+	font:16px '微软雅黑';
+	margin-bottom: 20px;
+}
+.left ul{
+	color:#ffffff;
+	font:14px '微软雅黑';
+}
+.h{
+	width:120px;
+	height: 220px;
+	margin-right:24px;
+	padding-top: 64px;
+	float:left;
+}
+.h p{
+	color:#ffffff;
+	font:16px '微软雅黑';
+	margin-bottom: 20px;
+}
+.h ul{
+	color:#ffffff;
+	font:14px '微软雅黑';
+}
+.line{
+	padding-top: 36px;
+	float:left;
+	margin-right: 30px;
+}
+.right{
+	float:left;
+	
+	width:270px;
+	height:260px;
+	padding-top: 26px;
+}
+.right p{
+	color:#ffffff;
+	font:12px '微软雅黑';
+
+}
+.right .k{
+	margin-top: 26px;
+	margin-bottom: 28px;
+}
+.right span{
+	margin-left:16px;
+}
+.right .l{
+	margin-left: 58px;
+}
+.jiewei{
+	width:1200px;
+	height:30px;
+	margin: 0 auto;
+}
+.z{
+	width:238px;
+	height:30px;
+	margin-left: 74px;
+	color:#ffffff;
+	font:12px '微软雅黑';
+	float:left;
+}
+.x{
+	width:532px;
+	height:30px;
+	margin-left:140px;
+	color:#ffffff;
+	font:12px '微软雅黑';
+	float:left;
 }
