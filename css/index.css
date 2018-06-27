@@ -174,7 +174,13 @@ ul .red{
 	margin-top:12px;
 	background: #e2e2e2;
 }
-
+.weibo{
+	display: inline-block;
+	width: 300px;
+	height: 57px;
+	float: right;
+	margin-top: 17px;
+}
 .tuwen{
 	width:1200px;
 	height: 268px;
