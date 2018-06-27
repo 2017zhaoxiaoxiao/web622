@@ -487,8 +487,7 @@ ul .red{
 .wo1{
 	width:1200px;
 	height:380px;
-	margin-left :32px;
-	margin-right:35px;
+	margin:0 auto;
 	margin-top: 5px;
 	background-color: #ffffff; 
 }
