@@ -1,10 +1,10 @@
 # 小组成员与任务分配
 25个页面  6位成员,每人4个人页面，首页集体完成<br>
-## 小组成员:赵肖肖 聂丹 李晓萌 康奥钒 吴东枚 郑玉莹
-<br>
-[首页]
+<p> 小组成员:赵肖肖 聂丹 李晓萌 康奥钒 吴东枚 郑玉莹</p>
+
+<p>首页:<p>
 (https://2017zhaoxiaoxiao.github.io/web-622/)<br>
-## 任务分配详情：
+<p>任务分配详情：</p>
 - 赵肖肖<br>
 1. [产品中心-综合页]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
