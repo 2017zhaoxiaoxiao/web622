@@ -49,7 +49,7 @@
 3. [计量校准-表格-内容]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/wdm2.html)
 4. [计量校准-计量标准（表格）]
-(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm3.html)
+(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian.html)
 - 郑玉莹
 1. [计量校准-计量产品]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/da.html)
