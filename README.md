@@ -4,7 +4,7 @@
 <br>
 [首页]
 (https://2017zhaoxiaoxiao.github.io/web-622/)
-##任务分配详情：
+## 任务分配详情：
 - 赵肖肖
 1. [产品中心-综合页]
 (https://2017zhaoxiaoxiao.github.io/web-622/html/zongheye.html)
