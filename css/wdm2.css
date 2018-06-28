@@ -172,13 +172,13 @@ a{
 	float: left;
 }
 .cwdm17{
-	width:80px;
+	width:90px;
 	height: 20px;
-	color:#2756a4;
 	margin-left: 5px;
 	margin-top: 20px;
+	background: url(../images/cw3.png) no-repeat right;
 	margin-bottom: 57px;
-	margin-right: 200px;
+	margin-right: 10px;
 	float: left;
 }
 .cwdm18{
@@ -1494,4 +1494,25 @@ a{
 	color:#ffffff;
 	margin-left: 14px;
 	text-decoration:none;
+}
+.cwdm165{
+	width:80px;
+	height: 20px;
+	margin-top: 20px;
+	margin-bottom: 57px;
+	background: url(../images/cw3.png) no-repeat right;
+	float: left;
+}
+.cwdm166{
+	width:80px;
+	height: 20px;
+	color:#2756a4;
+	margin-left: 5px;
+	margin-top: 20px;
+	margin-bottom: 57px;
+	margin-right: 200px;
+	float: left;
+}
+.bwdmj7{
+	color:black;
 }
