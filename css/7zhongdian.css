@@ -347,3 +347,64 @@ a{
 	margin-top: 40px;
 	float: left;
 }
+.zong .piaofu{
+	position: fixed;
+	right:1px;
+	top:164px;
+}
+.piaofu .ab{
+	background: #8d8d8d;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:80px;
+}
+.piaofu .ac{
+	background: #b0b0b0;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:80px;
+}
+.ad{
+	background: #b0b0b0;
+	border-bottom:1px dotted #ffffff; 
+	width:84px;
+	height:64px;
+}
+.ad a{
+	width:84px;
+	height:18px;
+	display: inline-block;
+	font: 10px '微软雅黑';
+	color:#8d8d8d;
+	text-decoration:none;
+	background: #a4a4a4;
+}
+
+.ab img{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.ac img{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.ad img{
+	margin-top: 20px;
+	margin-left: 26px;
+	margin-bottom: 10px;
+}
+.ab a{
+	display: inline-block;
+	font: 14px '微软雅黑';
+	color:#ffffff;
+	margin-left: 14px;
+	text-decoration:none;
+}
+.ac a{
+	display: inline-block;
+	text-align: center;
+	font: 14px '微软雅黑';
+	color:#ffffff;
+	margin-left: 14px;
+	text-decoration:none;
+}
