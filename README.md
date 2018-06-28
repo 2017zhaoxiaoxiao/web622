@@ -22,9 +22,9 @@
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5.html)
 	<li>[产品中心-产品对比详情页]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5-1.html)
-	<li>[产品中心-详情页 -订购信息]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
 	<li>[产品中心-详情页 -技术指标]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
+	<li>[产品中心-详情页 -订购信息]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/7zhongdian.html)
 </ul>
 <p>李晓萌</p>
