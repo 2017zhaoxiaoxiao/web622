@@ -296,8 +296,12 @@ a{
 }
 .av4501{
 	margin-left: 16px;
-	font: 14px '微软雅黑';
+	
 	float: left;
+}
+.av4501 a{
+	font: 14px '微软雅黑';
+	color:black;
 }
 .zhankaishang{
 	position: relative;
