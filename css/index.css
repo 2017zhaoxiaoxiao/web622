@@ -418,14 +418,16 @@ ul .red{
 	color: #333333;
 	padding-top: 15px;
 	margin-bottom: 25px;
+	display: block;
 }
 .lxmriqi{
 	width: 91px;
 	height: 27px;
-	position: absolute;
-	top: 1295px;
-	left: 1100px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 50px;
 }
+
 .lxmxiaozi{
 	font: 14px '微软雅黑';
 	font-weight: normal;
@@ -438,49 +440,46 @@ ul .red{
 	line-height: 25px;
 }
 .lxmlan{
-	width: 77px;
-	height: 24px;
-	position: absolute;
-	top: 1400px;
-	left: 1050px;
+	width:76px;
+	height:24px;
 	background-color: #34caef;
+	float: right;
 	font:14px '微软雅黑';
 	color:#ffffff;
 	border-radius: 5px;
+	margin-right: 50px;
 }
 .lxmriqi1{
 	width: 91px;
 	height: 27px;
-	position: absolute;
-	top:1490px;
-	left: 1100px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 50px;
 }
 .lxmriqi2{
 	width: 91px;
 	height: 27px;
-	position: absolute;
-	top: 1660px;
-	left: 1100px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 50px;
 }
 .lxmlan1{
-	width: 77px;
-	height: 24px;
-	position: absolute;
-	top: 1590px;
-	left: 1050px;
+	width:76px;
+	height:24px;
 	background-color: #34caef;
+	float: right;
 	font:14px '微软雅黑';
 	color:#ffffff;
 	border-radius: 5px;
+	margin-right: 50px;
 }
 .lxmlan2{
-	width: 77px;
-	height: 24px;
-	position: absolute;
-	top: 1780px;
-	left: 1050px;
+	width:76px;
+	height:24px;
 	background-color: #34caef;
+	float: right;
 	font:14px '微软雅黑';
 	color:#ffffff;
 	border-radius: 5px;
+	margin-right: 50px;
 }
