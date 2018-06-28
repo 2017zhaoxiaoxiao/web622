@@ -8,80 +8,93 @@ ul,li,ol{
 a{
 	text-decoration:none;
 }
-.awdm{
-	width: 100%;
-	height: 150px;
-	margin: 0px;
+
+.daohang{
+	width:1200px;
+	height:104px;
+	margin: 0 auto;
 }
-.awdm1{
-	width: 100%;
-	height: 100px;
-	margin:0px;
+.daohang img{
+	float:left;
 }
-.awdm1 img{
-	width: 510px;
-	height: 54px;
-	margin-left: 70px;
-	margin-top: 35px;
-	margin-bottom: 12px; 
-	float: left;
+.daohang p{
+	color:#0b4199;
+	font-family: '微软雅黑'；
+	font-size:22px;
+	display: inline-block;
+	margin-top:50px;
+	margin-left: 186px;
+	margin-right: 28px;
+
+
 }
-.awdm1 p{
-	width: 250px;
-	height: 23px;
-	font-size: 22px;
-	color: #0b4199;
-	margin-left: 70px;
+.daohang ul{
 	margin-top: 50px;
-	margin-bottom: 25px;
-	float: left;
+	margin-right: 0px;
 }
-.awdm2{
-	width:30px;
-	height: 19px;
+.b{
+
+	float:left;
+}
+.b li{
+
+	display: inline-block;
 	color:#7d7d7d;
-	font-size: 15px;
-	margin-left: 20px;
-	margin-top: 55px;
-	margin-bottom: 30px;
-	float: left;
+	font-size: 16px;
+
 }
-.awdm3{
+
+
+ul .red{
+	color:red;
+	margin-left:10px;
+
+}
+ .c{
+	border-left: 1px solid #7d7d7d;
+	width: 56px;
+	text-align: center;
+}
+.caidan{
+	width:1200px;
+	height:50px;
+	margin: 0 auto;
+	
+}
+.caidan ul{
+	height:50px;
+	width:944px;
+}
+.caidan img{
+	margin-top: 6px;
+}
+.d{
+	float:left;
+}
+
+
+.d li{
+	display: inline-block;
+	height:50px;
 	width:80px;
-	height: 19px;
-	font-size: 15px;
-	color:#ef2c34;
-	margin-left: 20px;
-	margin-top: 55px;
-	margin-bottom: 30px;
-	background:url(../images/aw25.png) no-repeat right;
-	float: left;
+	text-align: center;
+	line-height: 45px;
+	margin-right:28px; 
 }
-.awdm4{
-	width:45px;
-	height: 19px;
-	color:#7d7d7d;
-	font-size: 15px;
-	margin-left: 15px;
-	margin-top: 55px;
-	margin-bottom: 30px;
-	background:url(../images/aw25.png) no-repeat right;
-	float: left;
+.d li:hover{
+	background-color: #2756a4;
+	
 }
-.awdm5{
-	width:30px;
-	height: 19px;
-	color:#7d7d7d;
-	font-size: 15px;
-	margin-left: 15px;
-	margin-top: 55px;
-	margin-bottom: 30px;
-	float: left;
+ .d a{
+
+    
+	color:#434343;
+	text-decoration:none;
+	font:16px '微软雅黑';
+	
 }
-.awdm6{
-	width: 100%;
-	height: 50px;
-	margin: 0px;
+.d a:hover{
+	color:white;
 }
 .awdm7{
 	width: 97px;
@@ -280,6 +293,10 @@ a{
 	margin-right: 11px;
 	margin-top: 15px;
 	margin-bottom: 25px;
+}
+.awdm27 a{
+	font-size: 15px;
+	color:#3f65ab;
 }
 .awdm30{
 	width: 65px;
