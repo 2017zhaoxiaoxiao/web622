@@ -53,14 +53,14 @@ ul,li,ol{
 	margin: 0 auto;
 	height: 50px;
 }
-.shouye{
+.liebiao a{
+	color: black;
+}
+.liebiao .shouye{
 	display: inline-block;
 	width: 80px;
 	height: 20px;
 	padding:10px;
-}
-.li{
-	color: white;
 }
 .liebiao li:hover{background-color: blue;}
 a:link{text-decoration: none;color: black;}

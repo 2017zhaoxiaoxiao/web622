@@ -174,7 +174,13 @@ ul .red{
 	margin-top:12px;
 	background: #e2e2e2;
 }
-
+.weibo{
+	display: inline-block;
+	width: 300px;
+	height: 57px;
+	float: right;
+	margin-top: 17px;
+}
 .tuwen{
 	width:1200px;
 	height: 268px;
@@ -257,23 +263,10 @@ ul .red{
 	width: 679px;
 	height:  268px;
 }
-.po{
-	width:1200px;
-	height:314px;
-}
-.po .zuo{
-	float:left;
-	margin-top: 150px;
-	margin-left:28px;
-}
-.po .you {
-	float:left;
-	margin-top: 150px;
-	
-}
-.po .zxone{
-	float:left;
 
+.poo{
+	width:100%;
+	height:314px;
 }
 .po{
 	width:1200px;
@@ -579,4 +572,126 @@ ul .red{
 	float: right;
 	margin-top: 5px;
 	margin-right: 5px;
+}
+.last{
+	width:100%;
+	height:368px;
+	background:#0b4199;
+
+}
+.top{
+	width:100%;
+	width:1200px;
+	height:60px;
+	padding: 14px 70px 14px 70px;
+
+}
+.top img{
+	float:left;
+	margin-right: 10px;
+}
+.top p{
+	float:left;
+	color:#ffffff;
+	font:18px '微软雅黑';
+
+}
+.four{
+	margin-left: 320px;
+
+}
+.five{
+	margin-left: 320px;
+}
+.bottom{
+	width:100%;
+	height:320px;
+	background: #454545;
+    
+}
+.q{
+	width:1200px;
+	height:320px;
+	margin: 0 auto;
+	background: #454545;
+}
+.left{
+	width:120px;
+	height: 220px;
+	margin-right:68px;
+	padding-top: 64px;
+	float:left;
+}
+.left p{
+	color:#ffffff;
+	font:16px '微软雅黑';
+	margin-bottom: 20px;
+}
+.left ul{
+	color:#ffffff;
+	font:14px '微软雅黑';
+}
+.h{
+	width:120px;
+	height: 220px;
+	margin-right:24px;
+	padding-top: 64px;
+	float:left;
+}
+.h p{
+	color:#ffffff;
+	font:16px '微软雅黑';
+	margin-bottom: 20px;
+}
+.h ul{
+	color:#ffffff;
+	font:14px '微软雅黑';
+}
+.line{
+	padding-top: 36px;
+	float:left;
+	margin-right: 30px;
+}
+.right{
+	float:left;
+	
+	width:270px;
+	height:260px;
+	padding-top: 26px;
+}
+.right p{
+	color:#ffffff;
+	font:12px '微软雅黑';
+
+}
+.right .k{
+	margin-top: 26px;
+	margin-bottom: 28px;
+}
+.right span{
+	margin-left:16px;
+}
+.right .l{
+	margin-left: 58px;
+}
+.jiewei{
+	width:1200px;
+	height:30px;
+	margin: 0 auto;
+}
+.z{
+	width:238px;
+	height:30px;
+	margin-left: 74px;
+	color:#ffffff;
+	font:12px '微软雅黑';
+	float:left;
+}
+.x{
+	width:532px;
+	height:30px;
+	margin-left:140px;
+	color:#ffffff;
+	font:12px '微软雅黑';
+	float:left;
 }
