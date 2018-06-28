@@ -83,7 +83,7 @@ ul .red{
 	background-color: #2756a4;
 	
 }
-a{
+ .d a{
 
     
 	color:#434343;
@@ -91,7 +91,7 @@ a{
 	font:16px '微软雅黑';
 	
 }
-a:hover{
+.d a:hover{
 	color:white;
 }
 .zhengti{
@@ -231,9 +231,19 @@ a:hover{
 	width:268px;
 	height:30px;
 	padding-top: 10px;
+	
+	border-top:1px dashed #cccccc; 
+}
+ .lianjie{
 	color:#2756a4;
 	font:14px '微软雅黑';
-	border-top:1px dashed #cccccc; 
+	text-decoration:none;
+
+}
+p a{
+	color:#434343;
+	text-decoration:none;
+	font:16px '微软雅黑';
 }
 .last{
 	width:100%;
