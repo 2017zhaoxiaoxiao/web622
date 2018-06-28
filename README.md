@@ -42,11 +42,11 @@
 <p>康奥钒</p>
 <ul>
 	<li>[检测-环境检测]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.9.html)
-	<li>[检测-环境检测-button-详情页]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.10.html)
-	<li>[检测-元器件监测]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.18.html)
+	<li>[检测-环境检测-button-详情页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.9.html)
+	<li>[检测-元器件监测]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.10.html)
 	<li>[培训与教育]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/6.22.html)
 </ul>
