@@ -200,10 +200,14 @@ a{
 }
 .cpgshu{
 	float: left;
-	font:14px '微软雅黑';
+	
 	margin-left: 60px;
-	color: #ffffff;
+	
 	margin-top: 5px;
+}
+.cpgshu a{
+	font:14px '微软雅黑';
+	color: #ffffff;
 }
 .baise1{
 	width: 1200px;

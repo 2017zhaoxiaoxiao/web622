@@ -22,9 +22,9 @@
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5.html)
 	<li>[产品中心-产品对比详情页]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian5-1.html)
-	<li>[产品中心-详情页 -技术指标]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
 	<li>[产品中心-详情页 -订购信息]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian6.html)
+	<li>[产品中心-详情页 -技术指标]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/7zhongdian.html)
 </ul>
 <p>李晓萌</p>
@@ -54,22 +54,22 @@
 <p>吴东枚</p>
 <ul>
 	<li>[计量和服务-详情页-产品概述]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm.html)
-	<li>[计量和服务-综合页]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm1.html)
-	<li>[计量校准-表格-内容]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm2.html)
-	<li>[计量校准-计量标准（表格）]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zhongdian.html)
+	<li>[计量和服务-综合页]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm.html)
+	<li>[计量校准-表格-内容]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm1.html)
+	<li>[计量校准-计量标准（表格）]</li>
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/wdm2.html)
 </ul>
 <p>郑玉莹</p>
 <ul>
 	<li>[计量校准-计量产品]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/da.html)
 	<li>[计量校准-资质能力]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigo.html)
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyzizhi.html)
 	<li>[计量校准-资质能力-机构介绍及资质能力]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyymc.html)
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigo.html)
 	<li>[检测-EMC]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyzizi.html)
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyymc.html)
 </ul>
