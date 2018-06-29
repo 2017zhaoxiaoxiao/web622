@@ -198,12 +198,15 @@ a{
     height: 18px;
     color: #5d5d5d;
 }
-.cpgshu{
+.cpgshu {
 	float: left;
 	font:14px '微软雅黑';
 	margin-left: 60px;
 	color: #ffffff;
 	margin-top: 5px;
+}
+.beijing a{
+	color: #fff;
 }
 .baise1{
 	width: 1200px;

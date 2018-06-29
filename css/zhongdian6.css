@@ -137,6 +137,9 @@ a{
 	font:14px '微软雅黑';
 	color: #cfcfcf;
 }
+.zhuye .blue{
+	color: #2756a4;
+}
 .ndcpbj{
     font:14px '微软雅黑';
 	color: #2756a4;
@@ -168,6 +171,9 @@ a{
 	margin-top: 60px;
 	background-repeat: no-repeat;
 	background-image: url(../images/ndhuilan.png);
+}
+.beijing a{
+	color: #fff;
 }
 .cpgshu{
 	float: left;

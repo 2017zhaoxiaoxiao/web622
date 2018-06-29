@@ -69,7 +69,7 @@
 	<li>[计量校准-资质能力]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyzizhi.html)
 	<li>[计量校准-资质能力-机构介绍及资质能力]</li>
-	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigo.html)
+	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyyjigou.html)
 	<li>[检测-EMC]</li>
 	(https://2017zhaoxiaoxiao.github.io/web-622/html/zyymc.html)
 </ul>

@@ -118,16 +118,16 @@ a:hover{color: white;background-color: blue;}*/
 .xia{
 	font-size: 16px;
 }
-.ccc{
+.ji{
 	margin-top: 10px;
 	font-size: 14px;
-	display: inline-block;
+	color:#999999;
+	
 }
-.cc{
-	color:gray;
-}
-.j{
-	color: #a1adcd;
+.blue{
+	margin-top: 10px;
+	font-size: 14px;
+	color:blue;
 }
 .baii{
 	height: 345px;
