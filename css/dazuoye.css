@@ -104,17 +104,16 @@ ul .red{
 	margin:0 auto;
 	border-bottom: 1px dashed #ececec;
 }
-.jiliang .ccc{
-	color: red;
-	font-size: 14px;
-	display: inline-block;
+.ji{
 	margin-top: 10px;
+	font-size: 14px;
+	color:#999999;
+	
 }
-.cc{
-	color:gray;
-}
-.jiliang .j{
-	color: blue;
+.blue{
+	margin-top: 10px;
+	font-size: 14px;
+	color:blue;
 }
 a:link{text-decoration: none;color: white;}
 a:visted{color: #999999;}
