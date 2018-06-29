@@ -137,6 +137,9 @@ a{
 	font:14px '微软雅黑';
 	color: #cfcfcf;
 }
+.zhuye .bluee{
+	color: #2756a4;
+}
 .ndcpbj{
     font:14px '微软雅黑';
 	color: #2756a4;
@@ -218,25 +221,33 @@ a{
 .Hz～26{
 	margin-top: 20px;
 }
+.zyy{
+	width: 1200px;
+	height: 50px;
+}
+.zyyy{
+	width: 1200px;
+	height: 50px;
+}
 .suoqubaojia1{
 	float: left;
-	margin-left: 322px;
+	margin-left: 150px;
 	margin-top: 22px;
 }
 .suoqubaojia2{
 	float: left;
-	margin-left: 191px;
+	margin-left: 500px;
 	margin-top: 22px;
 }
 .suoqubaojia3{
 	float: left;
-	margin-left: 188px;
+	margin-left: 1100px;
 	margin-top: 22px;
 }
 .lansefangkuang1{
 	float: left;
 	margin-top: 8px;
-	margin-left: 322px;
+	margin-left: 150px;
 }
 .lansefangkuang2{
 	float: left;

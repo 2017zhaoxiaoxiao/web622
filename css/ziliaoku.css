@@ -126,13 +126,13 @@ a{
 	font-weight: normal;
 	color: #999999;
 }
+.nav1 .zyy{
+	color: #2756a4;
+}
 .zhuye{
 	padding-left: 18px;
 }
 
-.nav1 a:hover{
-	color: #0b4199;
-}
 /*header结束*/
 /*center开始*/
 .center{
