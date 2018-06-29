@@ -105,9 +105,9 @@ ul .red{
 	margin:0 auto;
 	border-bottom: 1px dotted #3e3e3e
 }
-a:link{text-decoration: none;color: white;}
+/*a:link{text-decoration: none;color: white;}
 a:visted{color: #999999;}
-a:hover{color: white;background-color: blue;}
+a:hover{color: white;background-color: blue;}*/
 .jiliang h2{
 	color:#9e9e9e;
 }
@@ -149,10 +149,14 @@ a:hover{color: white;background-color: blue;}
 	margin-left: 13px;
 
 }
+.hui a{
+	color: blue;
+	text-decoration: none;
+}
 .hui p{
 	display: inline-block;
-	color: blue;
-	margin-left: 100px;
+	
+	margin-left: 120px;
 	margin-top: 15px;
 }
 .piaofu{
